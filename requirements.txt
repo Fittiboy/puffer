@@ -1,7 +1,7 @@
 --index-url https://download.pytorch.org/whl/cu126
 --extra-index-url https://pypi.org/simple
 
-pufferlib[cleanrl,ray,nethack,procgen,atari,crafter,pokemon_red,vizdoom,classic_control]>=2.0.6
+pufferlib[cleanrl,ray,crafter,nethack,atari,classic-control,procgen,pokemon_red,vizdoom]>=2.0.6
 torch
 torchvision
 torchrl
